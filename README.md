@@ -4,6 +4,13 @@
 
 > Ce projet vise à analyser et visualiser les données du dataset Netflix, qui contient des informations détaillées sur les films et les séries disponibles sur la plateforme. En utilisant diverses bibliothèques Python, nous avons représenté les données à l'aide de différents types de graphiques pour offrir des perspectives approfondies sur le dataset.
 
+## Format du Dataset
+
+Le dataset est fourni sous forme de fichier CSV avec les métadonnées suivantes :
+<p align="center">
+  <img src="INFO.png">
+</p>
+
 Types de Graphiques Utilisés, Pour une meilleure compréhension des données, nous avons employé les graphiques suivants :
 
 1. Histogrammes : Affichent la distribution des variables numériques, telles que la répartition des notes ou des durées des films.
